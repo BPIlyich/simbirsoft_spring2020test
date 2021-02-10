@@ -32,6 +32,7 @@
 git clone https://github.com/BPIlyich/simbirsoft_spring2020test.git
 ```
 Заполняем и переименовываем файл *.env.dev-sample* в *.env.dev*
+
 Сборка и первоначальный запуск
 ```sh
 docker-compose up --build
