@@ -1,0 +1,8 @@
+cryptography==3.1.1
+
+django==3.1.6
+psycopg2-binary==2.8.6
+djangorestframework==3.12.2
+djangorestframework-simplejwt==4.6.0
+drf_spectacular==0.13.1
+djoser==2.1.0
